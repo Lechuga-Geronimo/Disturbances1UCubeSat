@@ -1,4 +1,4 @@
-# ADCS-Investigation
+# Enviromental Disturbances Simulation and Determination for a 1U CubeSat.
 This project is about the determination and simulation of enviromental disturbances for a 1U CubeSat. 
 
 I started reviewing the state-of-art related to disturbances that a satellite (and more like, a CubeSat) may suffer in orbit. The main four are Aerodynamic Drag, Solar Pressure, Magnetic Torque and Gravitatory Torque.
