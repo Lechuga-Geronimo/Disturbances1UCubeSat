@@ -7,14 +7,15 @@ After determining the applicable equations that describes this effects, I starte
 
 ## Solar Pressure. 
 
-![1713912712318](https://github.com/Lechuga-Geronimo/ADCS-Investigation/assets/142461885/6c21e9f0-2228-480a-a9ae-d8f6d89c0f34)
+![Solar pressure](https://github.com/Lechuga-Geronimo/Disturbances1UCubeSat/assets/142461885/a5426aff-dcf0-4552-bdfe-ae360c9fb293)
 
 ## Aerodynamic Drag. 
 
-![1713912702399](https://github.com/Lechuga-Geronimo/ADCS-Investigation/assets/142461885/51d1809e-50d2-4cbf-82c1-8a24a2f21bdc)
+![Table of estimations](https://github.com/Lechuga-Geronimo/Disturbances1UCubeSat/assets/142461885/ed411c74-6760-48ee-b260-395b1d7d7bd6)
 
 ## Torques and forces. 
 
 Different results depending the angle of CubeSat. All in Matlab.
 
-![1713912662790](https://github.com/Lechuga-Geronimo/ADCS-Investigation/assets/142461885/28fcb226-3f71-41e7-ac60-eb0ac7792ad2)
+![Torques and forces](https://github.com/Lechuga-Geronimo/Disturbances1UCubeSat/assets/142461885/2e3bc817-74b1-4953-8a90-f8e2b79e6af6)
+
